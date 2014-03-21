@@ -1,4 +1,5 @@
 <?php
-  echo 'hellowolrd';
-  echo 'bye';
+  echo 'hellowolrd' . PHP_EOL;
+  echo 'bye' . PHP_EOL;
+  echo 'future1';
 ?>
